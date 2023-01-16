@@ -3,7 +3,7 @@
   <p align="center">
     Here is a project I worked on using Kaggle to explore how to use Computer Vision to classify chess pieces
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/pauLiou/Chess-Piece-Classifier/"><strong>Explore the docs »</strong></a>
 </div>
 
 <!-- ABOUT THE PROJECT -->
